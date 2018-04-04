@@ -4,6 +4,7 @@ Backend API testing
 The project is done using Java with RestAssured and JsonPath libraries.
 To run the test open the project in Eclipse and right-click on src/com/api/test/restapitester/ApiTest.java file,
 choose "Run as" -> "JUnit test".
+(please see pl_b_api_demo.mp4)
 
 After test passed verify there are no failed tests.
 
